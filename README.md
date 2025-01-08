@@ -41,3 +41,4 @@ weather-dashboard/
   .env
   .gitignore
   requirements.txt
+![Screenshot (118)](https://github.com/user-attachments/assets/5cdc6407-fbd2-48c2-a2ea-c4a1078cb1f6)
